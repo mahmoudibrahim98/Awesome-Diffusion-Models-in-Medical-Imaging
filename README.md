@@ -731,6 +731,11 @@
 [16th Jan., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2301.06604)] 
 
+**Diffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images** \
+*Mohamed Akrout, Bálint Gyepesi, Péter Holló, Adrienn Poór, Blága Kincső, Stephen Solis, Katrina Cirone, Jeremy Kawahara, Dekker Slade, Latif Abid, Máté Kovács, István Fazekas* \
+[12th Jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.04802)] 
+
 **Generating Realistic 3D Brain MRIs Using a Conditional Diffusion Probabilistic Model** \
 *Wei Peng, Ehsan Adeli, Qingyu Zhao, Kilian M Pohl* \
 [15th Dec., 2022] [MICCAI, 2023] \
